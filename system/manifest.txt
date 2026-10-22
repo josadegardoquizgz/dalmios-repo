@@ -1,0 +1,6 @@
+dalmios-system-update 1
+version=0.1.0
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-0.1.0.fat
+sha256=0c99e63b61b5cf49bae4e541b032fb24f19e26b30a7fc8a0dd87ff8b22bc1ee1
+size=16064716
+notes=Primera version publicada: instalador con cuenta propia, actualizaciones firmadas

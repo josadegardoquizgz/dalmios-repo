@@ -1,0 +1,36 @@
+{
+  "packages": [
+    {
+      "name": "hello",
+      "version": "2.10-3build1",
+      "summary": "el saludo de GNU",
+      "url": "http://archive.ubuntu.com/ubuntu/pool/main/h/hello/hello_2.10-3build1_amd64.deb",
+      "sha256": "e68cf4365b7aa9c4e2af4af6eee1710d6f967059b7b4af62786e8870d7366333",
+      "size": 26006
+    },
+    {
+      "name": "figlet",
+      "version": "2.2.5-3",
+      "summary": "texto en letras grandes",
+      "url": "http://archive.ubuntu.com/ubuntu/pool/universe/f/figlet/figlet_2.2.5-3_amd64.deb",
+      "sha256": "029a54c786ebfe32fd60f00d188925cf243cf8b2647ffd597335a547faffed61",
+      "size": 133198
+    },
+    {
+      "name": "sl",
+      "version": "5.02-1",
+      "summary": "un tren que cruza la Terminal",
+      "url": "http://archive.ubuntu.com/ubuntu/pool/universe/s/sl/sl_5.02-1_amd64.deb",
+      "sha256": "aeda5a0e5f2ed185078e7819b9a6176eb6b09190d4b58dc46e049d9f01fa0ea9",
+      "size": 12708
+    },
+    {
+      "name": "tree",
+      "version": "2.1.1-2ubuntu3.24.04.2",
+      "summary": "las carpetas en arbol",
+      "url": "http://archive.ubuntu.com/ubuntu/pool/universe/t/tree/tree_2.1.1-2ubuntu3.24.04.2_amd64.deb",
+      "sha256": "56edc302c11b1d35975ded0a38d52e98e82280b12a7a1c7a1b03e4772061731e",
+      "size": 47360
+    }
+  ]
+}
