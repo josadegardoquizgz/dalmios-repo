@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=0.1.3
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-0.1.3.fat
-sha256=a22dae927b24eff265e60fb60601c5dd46272b21b528dbf53ea5a9d1595bd263
+version=0.1.4
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-0.1.4.fat
+sha256=881703e1ceb960d5b8d91e5fececc77541212bd002456c3ac35053b50a760aa3
 size=16344627
-notes=Teclado espanol (elegible en el instalador), carpeta personal con tu nombre, los paquetes .deb instalados se conservan al reiniciar, Tab completa carpetas en la Terminal
+notes=Teclado espanol (elegible en el instalador), carpeta personal con tu nombre, paquetes .deb que se conservan al reiniciar, Tab completa carpetas, y el Navegador vuelve a abrir
