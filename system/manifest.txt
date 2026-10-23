@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=0.1.5
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-0.1.5.fat
-sha256=3f77406223bc0abc0853fd2621aa89df2114a523b97ebe25715041ca39190e90
-size=16344627
-notes=Teclado espanol (elegible en el instalador), carpeta personal con tu nombre, paquetes .deb que se conservan al reiniciar, el Navegador vuelve a abrir, y las descargas grandes ya no fallan por tiempo en discos lentos
+version=1.2.0
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.2.0.fat
+sha256=2464196958f0d4ed1bf2e96a10b7a09f17be568dd52e94f4d3880f576c5271b3
+size=16362649
+notes=Instalable en un PC real: discos NVMe, red Intel I219, instalador que descarga DalmiOS de Internet y avisa si el disco tiene Debian o Windows; comando red; animaciones fluidas en VirtualBox
