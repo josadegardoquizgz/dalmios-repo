@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=1.2.2
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.2.2.fat
-sha256=21f53e4ef8029395fbfafb738bbe0033bfd2ddf8fff2655c98139b070eb6d163
-size=16362649
-notes=Actualizaciones automaticas al arrancar; el instalador dice que controladoras de disco ve si no encuentra ninguno; arreglo de escrituras grandes en discos NVMe; animaciones fluidas en VirtualBox
+version=1.2.3
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.2.3.fat
+sha256=583f034e7ff6713c22ef233fcf66c3002e665bcc07f35ad6223ece70bd8af03a
+size=16367155
+notes=Descargar de Internet espera a que la red tenga direccion; el instalador muestra los discos y el estado de la red; actualizaciones automaticas
