@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=0.1.2
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-0.1.2.fat
-sha256=6b8d1dd134c3d192f009d000b3eb4c367386b69f4a22d39f891eb2b593ae2575
-size=16326604
-notes=Instalador al arrancar desde la ISO, Terminal renovada y navegador mejorado
+version=0.1.3
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-0.1.3.fat
+sha256=a22dae927b24eff265e60fb60601c5dd46272b21b528dbf53ea5a9d1595bd263
+size=16344627
+notes=Teclado espanol (elegible en el instalador), carpeta personal con tu nombre, los paquetes .deb instalados se conservan al reiniciar, Tab completa carpetas en la Terminal
