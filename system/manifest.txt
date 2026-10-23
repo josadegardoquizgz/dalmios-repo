@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=1.2.1
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.2.1.fat
-sha256=376ffbb024a2def523020e98f4d3206142f593aa3c19da0dba721f94f4e965be
+version=1.2.2
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.2.2.fat
+sha256=21f53e4ef8029395fbfafb738bbe0033bfd2ddf8fff2655c98139b070eb6d163
 size=16362649
-notes=Actualizaciones automaticas al arrancar; el instalador dice que controladoras de disco ve cuando no encuentra ningun disco (para el PC real); animaciones fluidas en VirtualBox
+notes=Actualizaciones automaticas al arrancar; el instalador dice que controladoras de disco ve si no encuentra ninguno; arreglo de escrituras grandes en discos NVMe; animaciones fluidas en VirtualBox
