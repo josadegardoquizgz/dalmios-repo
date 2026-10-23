@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=0.1.1
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-0.1.1.fat
-sha256=1903c45f260dd2fa592944b54c90514b455e43e5a411e60476758242b386f46a
-size=16087244
-notes=Sonido (Intel HD Audio) y el comando sonido en la Terminal
+version=0.1.2
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-0.1.2.fat
+sha256=6b8d1dd134c3d192f009d000b3eb4c367386b69f4a22d39f891eb2b593ae2575
+size=16326604
+notes=Instalador al arrancar desde la ISO, Terminal renovada y navegador mejorado
