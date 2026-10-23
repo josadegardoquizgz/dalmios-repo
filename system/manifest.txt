@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=1.2.0
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.2.0.fat
-sha256=2464196958f0d4ed1bf2e96a10b7a09f17be568dd52e94f4d3880f576c5271b3
+version=1.2.1
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.2.1.fat
+sha256=376ffbb024a2def523020e98f4d3206142f593aa3c19da0dba721f94f4e965be
 size=16362649
-notes=Instalable en un PC real: discos NVMe, red Intel I219, instalador que descarga DalmiOS de Internet y avisa si el disco tiene Debian o Windows; comando red; animaciones fluidas en VirtualBox
+notes=Actualizaciones automaticas al arrancar; el instalador dice que controladoras de disco ve cuando no encuentra ningun disco (para el PC real); animaciones fluidas en VirtualBox
