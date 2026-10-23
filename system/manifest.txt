@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=1.2.3
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.2.3.fat
-sha256=583f034e7ff6713c22ef233fcf66c3002e665bcc07f35ad6223ece70bd8af03a
+version=1.3.0
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.3.0.fat
+sha256=85d7c8f6bc144c7fef9eb25717f177d900f6ed9c9fa9d23a29a65dcb0cd60a6c
 size=16367155
-notes=Descargar de Internet espera a que la red tenga direccion; el instalador muestra los discos y el estado de la red; actualizaciones automaticas
+notes=El USB de instalacion se lee: se instala sin Internet, como Windows o Debian; red Intel I219 con los ajustes de enlace de Linux; animaciones mas fluidas en pantallas grandes
