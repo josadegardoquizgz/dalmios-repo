@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=1.3.2
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.3.2.fat
-sha256=999c3321460e46fbd43ce5af4fbf574728025b7499f195380b33df6ac3fe5c8b
-size=16371660
-notes=Red Intel I219: la cola de envio se vacia y configura como en Linux (FEXTNVM11, TCTL, TXDCTL1, TARC1); DNS 8.8.8.8 por defecto con red ip
+version=1.4.0
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.4.0.fat
+sha256=1296b072ff55c5bfdc3d57421ff88dbcbcd6faf4bf157fb68a95674417ce0f51
+size=16461772
+notes=Nuevo Reproductor de video: YouTube (enlaces y busqueda), MP4 de la web y de tus archivos, con decodificadores H.264 y AAC propios.
