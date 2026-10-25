@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=1.4.0
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.4.0.fat
-sha256=1296b072ff55c5bfdc3d57421ff88dbcbcd6faf4bf157fb68a95674417ce0f51
-size=16461772
-notes=Nuevo Reproductor de video: YouTube (enlaces y busqueda), MP4 de la web y de tus archivos, con decodificadores H.264 y AAC propios.
+version=1.5.1
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.5.1.fat
+sha256=89d65199d362810c53985cd0f521672a9dc57800eed3f89a6c06f1f3a32a0d1e
+size=16614963
+notes=Pantalla de arranque con un dalmata y puntos girando (sin texto, mas rapida); barra superior nueva con sonido, Wi-Fi, hora y apagado (Miguel); Reproductor de musica y videos del usuario (MP3, WAV, M4A); auriculares y cascos USB.
