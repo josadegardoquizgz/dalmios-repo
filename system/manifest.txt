@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=1.5.3
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.5.3.fat
-sha256=e4aedfce52741fbc1df1de7142889b1843e077d0ed3583b966b41473422395a7
-size=16682547
-notes=Brave se puede instalar con apt install brave-browser (primer paso: aun no abre su ventana); apt instala programas grandes y paquetes con diccionarios xz de 256 MiB; Los programas de Linux pueden usar memoria compartida (/dev/shm y memfd) y reservar mucha memoria; Primera version del servidor Wayland para ventanas de programas de Linux; En la sesion en vivo /etc y /var ya no se llenan al instalar paquetes
+version=1.5.4
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.5.4.fat
+sha256=62b61bc2cec6ac0cab42e1361001e16331e83e5aebacf346520b4f4b795af9c4
+size=16795750
+notes=Dalmi Store: la tienda de aplicaciones, con su icono en el dock; Wi-Fi para el adaptador TP-Link TL-WN823N (WPA2, se conecta solo al enchufarlo); Ventana de Red nueva: estado de la conexion y Wi-Fi (buscar, conectar y olvidar redes); La Terminal explica que hacer con los programas de Windows (.exe y .msi)
