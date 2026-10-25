@@ -1,6 +1,6 @@
 dalmios-system-update 1
-version=1.5.1
-url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.5.1.fat
-sha256=89d65199d362810c53985cd0f521672a9dc57800eed3f89a6c06f1f3a32a0d1e
-size=16614963
-notes=Pantalla de arranque con un dalmata y puntos girando (sin texto, mas rapida); barra superior nueva con sonido, Wi-Fi, hora y apagado (Miguel); Reproductor de musica y videos del usuario (MP3, WAV, M4A); auriculares y cascos USB.
+version=1.5.2
+url=https://raw.githubusercontent.com/josadegardoquizgz/dalmios-repo/main/system/dalmios-1.5.2.fat
+sha256=cfe96d2e22230528fabb63e9cc6f7456cf5eae0e86e2ff96e8176fe216d7d219
+size=16610457
+notes=La barra superior sube y baja el volumen de los cascos y tarjetas de sonido USB; un dispositivo USB nuevo empieza en tu volumen, no al maximo; teclas de volumen y silencio del teclado; el arranque pasa al escritorio sin cortes, con un fundido; dalmi upgrade muestra los cambios, una barra de progreso y cada paso; tuberias, sockets y epoll para los programas de Linux
